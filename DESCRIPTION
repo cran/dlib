@@ -2,7 +2,7 @@ Package: dlib
 Type: Package
 Title: Allow Access to the 'Dlib' C++ Library
 License: BSL-1.0
-Version: 1.0.3
+Version: 1.0.3.1
 Date: 2018-05-07
 Maintainer: Jan Wijffels <jwijffels@bnosac.be>
 Author: Jan Wijffels, BNOSAC, Davis King and dlib package authors (see file AUTHORS)
@@ -17,6 +17,6 @@ Imports: Rcpp
 Suggests: inline, magick
 RoxygenNote: 6.0.1
 NeedsCompilation: yes
-Packaged: 2018-05-07 08:50:13 UTC; Jan
+Packaged: 2020-10-14 15:40:04 UTC; hornik
 Repository: CRAN
-Date/Publication: 2018-05-07 11:58:37 UTC
+Date/Publication: 2020-10-14 16:34:38 UTC
